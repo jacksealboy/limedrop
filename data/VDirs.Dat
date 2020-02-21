@@ -1,0 +1,13 @@
+/; ./
+/assets/; .\assets\
+/bootstrap/dist/js/; .\bootstrap\dist\js\
+/js/; .\js\
+/js/Cryptojs/; .\js\Cryptojs\
+/css/; .\css\
+/css/icons/material-design-iconic-font/css/; .\css\icons\material-design-iconic-font\css\
+/css/icons/material-design-iconic-font/fonts/; .\css\icons\material-design-iconic-font\fonts\
+/css/icons/material-design-iconic-font//fonts/; .\css\icons\material-design-iconic-font\fonts\
+/css/icons/themify-icons/; .\css\icons\themify-icons\
+/css/icons/themify-icons/fonts/; .\css\icons\themify-icons\fonts\
+/css/icons/font-awesome/css/; .\css\icons\font-awesome\css\
+/css/icons/font-awesome/webfonts/; .\css\icons\font-awesome\webfonts\
